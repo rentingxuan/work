@@ -1,0 +1,1 @@
+{"baseUrl":"http://127.0.0.1/","configFileUrl":"http://127.0.0.1/android_cn/stable/release/config.txt","gameReleaseVersion":"999906211408","i18n":"CN","updatePacakgeUrl":"http://127.0.0.1/android_cn/stable/release/{0}/updatePackage","updateUrl":"http://127.0.0.1/android_cn/stable/release/{0}/res","useBackup":"1","versionCustomContent":"return {officialGameCenter=true}"}
