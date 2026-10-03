@@ -1,7 +1,0 @@
-i18n/CN/Zero/Driver/LoadingBG.assetbundle,050573b643ecf930524cb66fde99ed8c,1092669,125507
-i18n/CN/Zero/Driver/UDriverLoadView.assetbundle,bff8f52c20d3abfb53c1bcb555061abd,3516,124506
-i18n/CN/Zero/Driver/GameStartData.assetbundle,6b133a75327cadab11f7141d67698771,2974,124506
-Zero/Code/Assembly-CSharp.assetbundle,5c3766e1d6b519515db8a1a576b7de74,1599693,127045
-zero.jar,9aadebb27b31bfb105ce8c88f11e0a31,54209,127643
-GameVersion.assetbundle,c507afeb2c4a13b051138a522bf88035,34073,127882
-ExtraVersion.assetbundle,9fa3c1ad1fd86252c12af9c9f2782c5d,3349,127882
